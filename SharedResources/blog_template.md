@@ -1,13 +1,10 @@
 
 <div align="center">
     <h6 style="font-weight: 600;">5th Feb 2023<h6>
-    <br />
     <h1 style="font-weight: 700;">Update 1 - Name of Log</h1>
     <h4>Breif overall summary of the development log.<h4>
     <br>
 </div>
-
-<br>
 
 ## **Intro**
 
