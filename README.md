@@ -8,8 +8,6 @@ Development log for a 2D top-down futuristic colony simulator, resource manageme
 
 Read the [outline of The Consortium](OUTLINE.MD)
 
-<br>
-
 ## **Development Logs**
 
 - [Update 1 - Terrain Generation & Rendering](/DevelopmentLogs/20230205_Blog_1/Blog_1.md)
