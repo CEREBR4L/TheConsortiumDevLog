@@ -2,7 +2,7 @@
 <div align="center">
     <h6 style="font-weight: 600;">5th Feb 2023<h6>
     <h1 style="font-weight: 700;">Update 1 - Terrain Generation & Rendering</h1>
-    <h4>Breif overall summary of the development log.<h4>
+    <h4>This update we look at generating terrain and rendering it. We have a look at a custom debug handler with in editor controls. As well as defining goals for the next update!<h4>
     <br>
 </div>
 
