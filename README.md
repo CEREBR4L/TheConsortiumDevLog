@@ -9,9 +9,9 @@ Development log for a 2D top-down futuristic colony simulator, resource manageme
 Read the [outline of The Consortium](GAME_OUTLINE.MD)
 
 See the Moodboard:
-- [Part 1](/Moodboards/20230210_moodboard_one_part1.png) 
-- [Part 2](/Moodboards/20230210_moodboard_one_part2.png) 
-- [Part 3](/Moodboards/20230210_moodboard_one_part3.png)
+- [Part 1](/Moodboards/20230210_one/20230210_moodboard_one_part1.png) 
+- [Part 2](/Moodboards/20230210_one/20230210_moodboard_one_part2.png) 
+- [Part 3](/Moodboards/20230210_one/20230210_moodboard_one_part3.png)
 
 
 ## **Development Logs**
