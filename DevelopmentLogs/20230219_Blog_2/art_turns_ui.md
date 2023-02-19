@@ -30,7 +30,7 @@ This fortnight we have done the majority of the work towards a gameplay loop. A 
 
 
 ### What was planned but not done? 
- - [] Improved tile interaction
+ - [ ] Improved tile interaction
 
 
 ### Why not?
