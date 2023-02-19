@@ -2,7 +2,7 @@
     <h1 style="font-weight: 700;">The Consortium: Development Log</h1>
 </div>
 
-Development log for a 2D top-down futuristic colony simulator, resource management and automation game built in unity, called The Consortium. 
+Development log for a 2D top-down futuristic turn-based colony simulator, resource management and automation game built in unity, called The Consortium. 
 
 ### **Want to know more?** 
 
@@ -17,6 +17,7 @@ See the Moodboard:
 ## **Development Logs**
 
 - [Update 1 - Terrain Generation & Rendering](/DevelopmentLogs/20230205_Blog_1/terrain_generation_rendering.md)
+- [Update 2 - Art, Turns, & UI](/DevelopmentLogs/20230219_Blog_2/art_turns_ui.md)
 
 <br>
 
