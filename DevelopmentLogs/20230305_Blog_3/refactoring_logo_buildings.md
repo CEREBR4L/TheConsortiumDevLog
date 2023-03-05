@@ -57,7 +57,7 @@ Yes, most of this refactoring is due to the nature of developing an MVP, we are 
 
 ### Codebase
 
-Codebase structure was never defined at the start of the project we read and watched various things advising this structure or that one for one reason or another. We ultimately decided to ignore all of them but keep them in mind, and when it felt right we would refactor to a structure that made the most sense. We found the most logical structure would be to group scripts by logical groups such as "stats", "Camera", "Buildings", and "PointlessTools" (pointless is the game of the studio).
+Codebase structure was never defined at the start of the project we read and watched various things advising this structure or that one for one reason or another. We ultimately decided to ignore all of them but keep them in mind, and when it felt right we would refactor to a structure that made the most sense. Now felt like that time. So, we found the most logical structure would be to group scripts by logical groups such as "Stats", "Camera", "Buildings", and "PointlessTools" (pointless is the studio the game is being made under).
 
 Once this was in place it made sense to make sure all structs and enums were in their own files and lived in subfolders named "Structs" & "Enums" respectively within their logical groupings.
 
@@ -128,12 +128,12 @@ There is also a range of project management tasks and things to complete, but th
 
 
 **By the next update, the aim is to:**
- - Build out a resource system
- - Continue to expand the definitions for building, resources, resource nodes, and stats
- - Implement more buildings, resources, resource nodes, and stats
- - Start to look at a webpage, marketing, and setup social media
- - Art: terrain tiles, buildings, and logos
- - UI: labels, improve selected building UI, title screen, resources
+ - [ ] Build out a resource system
+ - [ ] Continue to expand the definitions for building, resources, resource nodes, and stats
+ - [ ] Implement more buildings, resources, resource nodes, and stats
+ - [ ] Start to look at a webpage, marketing, and setup social media
+ - [ ] Art: terrain tiles, buildings, and logos
+ - [ ] UI: labels, improve selected building UI, title screen, resources
 
  It was a pleasure to have your attention, thank you. We will be back in two weeks to provide another enlightening update. See you then, and have fun in the interim!
 
