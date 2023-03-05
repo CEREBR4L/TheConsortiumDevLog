@@ -29,11 +29,11 @@ This fortnight we have done the majority of the work towards a gameplay loop. A 
  - [x] First art for tiles 
 
 
-### What was planned but not done? 
+### What was planned but still needs to be done? 
  - [ ] Improved tile interaction
 
 
-### Why not?
+### Why was it not completed?
 Tile interaction work fell to the side as we shifted focus towards art and defining what was required to move forward to this, this is due to not expecting to have an artist on board this early.
 
 <br>
@@ -97,9 +97,9 @@ Attributes register and report to the stats system using delegate functions, thr
 The time to work over the next fortnight will be reduced to one week as the team are on going on holiday. However, we still aim to develop the art style further and implement more art, as well as solve the performance issues we are experiencing with animations. As well as working on the "boring work" of filling in spreadsheets to define buildings, their attributes, and resources. Doing so is in the name of working towards a playable game and gameplay loop, this will likely consume much of the time we have.
 
 **By the next update, the aim is to:**
- - Expand attributes
- - Define buildings and resources
- - Continue to define art style and implement art
- - Performance optimization for animated art
+ - [ ] Expand attributes
+ - [ ] Define buildings and resources
+ - [ ] Continue to define art style and implement art
+ - [ ] Performance optimization for animated art
 
  Thank you for reading, we will be back in two weeks to rant at you again. See you then, Have a great day!

@@ -167,10 +167,10 @@ I will extend and add features to this as I go and it is required but this gives
 I will continue to build out foundational systems and work towards a gameplay loop, focusing on spawning objects, exposing relevant values to UI and improving the celestial object system. I have spent lots of time in the last two weeks defining patterns for how things will work and refactoring as soon as I think something requires it, this will continue until I feel there is a solid definition of how systems work and interact with each other in intuitive and sensible ways.
 
 **By the next update, the aim is to:**
- - Rendering controlled by celestial objects
- - Flesh out UI system, add more UI as required
- - Spawning system - spawn buildings on tiles
- - Improved tile interaction
+ - [ ] Rendering controlled by celestial objects
+ - [ ] Flesh out UI system, add more UI as required
+ - [ ] Spawning system - spawn buildings on tiles
+ - [ ] Improved tile interaction
 
  Thank you for reading, catch you next time, we will see what progress has been made. Have a great day!
 

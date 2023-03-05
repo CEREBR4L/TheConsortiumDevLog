@@ -42,7 +42,7 @@ Overall there are a lot of things on the list but many of them remain in progres
  - [ ] Performance optimization for animated art
 
 
-#### Why not?
+#### Why was it not completed?
 The route cause was found, and the issue has been shelved as we are confident it is fixable. We are focusing on static art for the time being for performance optimization, we will be exploring animated terrain tiles going into the future for higher fidelity options, but we will always need a static option for lower-performance hardware, so this is where we are choosing to focus our time and energy at this stage of development.
 
 <br>
