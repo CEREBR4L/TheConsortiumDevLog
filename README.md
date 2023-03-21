@@ -14,6 +14,7 @@
 - [Update 1 - Terrain Generation & Rendering](/DevelopmentLogs/20230205_Blog_1/terrain_generation_rendering.md)
 - [Update 2 - Art, Turns, & UI](/DevelopmentLogs/20230219_Blog_2/art_turns_ui.md)
 - [Update 3 - Refactoring, Logo & Buildings](/DevelopmentLogs/20230305_Blog_3/refactoring_logo_buildings.md)
+- [Update 4 - Game Logo, Resource Management, & In-Game Art](/DevelopmentLogs/20230321_Blog_4/logo_resources_tiles.md)
 
 ### **Want to learn more?** 
 
