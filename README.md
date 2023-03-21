@@ -1,8 +1,13 @@
 <div align="center">
-    <h1 style="font-weight: 700;">The Consortium: Development Log</h1>
+    <img src="SharedResources/Logo/logo_full.png">
+    <h3 style="font-weight: 700;">Development Log</h3>
+    <p>
+        Development log and information hub for a 2D top-down futuristic turn-based colony simulator, resource management and automation game built in unity. 
+    </p>
 </div>
 
-Development log and information hub for a 2D top-down futuristic turn-based colony simulator, resource management and automation game built in unity, called "The Consortium". 
+
+
 
 ## **Development Logs**
 
@@ -10,9 +15,9 @@ Development log and information hub for a 2D top-down futuristic turn-based colo
 - [Update 2 - Art, Turns, & UI](/DevelopmentLogs/20230219_Blog_2/art_turns_ui.md)
 - [Update 3 - Refactoring, Logo & Buildings](/DevelopmentLogs/20230305_Blog_3/refactoring_logo_buildings.md)
 
-### **Want to know more?** 
+### **Want to learn more?** 
 
-[The Consortium outline](GAME_OUTLINE.MD)
+[The Consortium game outline](GAME_OUTLINE.MD)
 
 [Logo Moodboard](/Moodboards/20230302_logo/20230302_logo_moodboard.png)
 
